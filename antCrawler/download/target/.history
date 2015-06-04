@@ -1,0 +1,6 @@
+set name:="download"
+set scalaVersion:="2.11.6"
+set version="0.1"
+set version:="0.1"
+session save
+exit

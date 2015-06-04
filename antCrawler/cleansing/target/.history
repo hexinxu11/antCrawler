@@ -1,0 +1,5 @@
+set name:="cleansing"
+set scalaVersion:="2.11.6"
+set version:="0.1"
+session save
+exit
